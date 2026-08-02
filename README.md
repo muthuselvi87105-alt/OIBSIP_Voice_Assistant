@@ -58,17 +58,7 @@ git clone https://github.com/your-username/OIBSIP_Voice_Assistant.git
 ```bash
 pip install -r requirements.txt
 ```
-
 ---
-
-## ▶️ Run the Project
-
-```bash
-python voice.py
-```
-
----
-
 ## 🎙️ Supported Voice Commands
 
 - Hello
