@@ -38,7 +38,6 @@ This is a Python-based Voice Assistant that listens to the user's voice, recogni
 Voice_Assistant/
 │── voice.py
 │── requirements.txt
-│── README.md
 │── screenshots/
 ```
 
